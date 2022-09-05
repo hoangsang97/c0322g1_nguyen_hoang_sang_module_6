@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+body {
+}
+
+.btn-close {
+    border: 1px solid;
+    border-radius: 22px;
+    padding: 10px;
+}
